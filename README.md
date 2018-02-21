@@ -32,15 +32,16 @@ Vin+ 18650
 Vin+ to L298N&LM259 
 
 PCBA腳位  
-Tr   Ec   Vcc  Gnd  E1   N1   N2   N3   N4   E2 
 
-Rx   Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+ 
+    Tr   Ec   Vcc  Gnd  E1   N1   N2   N3   N4   E2 
 
- Common Map :
+    Rx   Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+ 
 
-    Tr    Ec  Vcc  Gnd  E1   N1   N2    N3   N4  E2   
-   __|____|____|____|____|____|____|____|____|____|__   
-  |__________________________________________________|    
-     |    |    |    |    |    |    |    |    |    |   
-     Rx  Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+   
+Common Map :  
+
+    Tr    Ec  Vcc  Gnd  E1   N1   N2    N3   N4  E2  
+   __|____|____|____|____|____|____|____|____|____|__  
+  |__________________________________________________|  
+     |    |    |    |    |    |    |    |    |    |  
+     Rx  Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+  
      
