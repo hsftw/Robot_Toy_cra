@@ -1,10 +1,17 @@
 # Robot_Toy_cra
+
 藍芽遙控小車
+
 超音波測距HC-SR04
+
 Tr : 18(D12)
+
 Ec : 19(D13)
+
 Vcc
+
 Gnd
+
 L298N控制板
 E1 : 5(D3)
 N1 : 11(D5)
