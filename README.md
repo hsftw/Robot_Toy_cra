@@ -37,11 +37,9 @@ PCBA腳位
 
     Rx   Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+ 
 
-Common Map :  
-
-    Tr    Ec  Vcc  Gnd  E1   N1   N2    N3   N4  E2  
-   __|____|____|____|____|____|____|____|____|____|__  
-  |__________________________________________________|  
-     |    |    |    |    |    |    |    |    |    |  
-     Rx  Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+  
+大燈 A0       
+倒車 A1       
+左方 A2       
+右方 A3       
+煞車 A4       
      
