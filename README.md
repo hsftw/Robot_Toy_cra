@@ -33,9 +33,13 @@ Vin+ to L298N&LM259
 
 PCBA腳位  
 
-    Tr   Ec   Vcc  Gnd  E1   N1   N2   N3   N4   E2 
-
-    Rx   Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+ 
+      Tr    Ec  Vcc  Gnd  E1   N1    N2   N3   N4   E2
+     (D12) (D13) +5V     (D3) (D5) (D6) (D9) (D10) (D11)
+     __|____|____|____|____|____|____|____|____|____|__
+    |__________________________________________________|
+       |    |    |    |    |    |    |    |    |    |
+     (D2)  (D4) +5V            +5V  (D8)   18650
+      Rx  Tx   Vcc  Gnd  Gnd  Vcc  Ser  Vin- Vin+ Vin+
 
 大燈 A0       
 倒車 A1       
